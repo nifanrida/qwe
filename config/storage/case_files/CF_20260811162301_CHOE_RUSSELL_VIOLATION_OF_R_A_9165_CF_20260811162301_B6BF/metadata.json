@@ -1,0 +1,15 @@
+{
+    "FULLNAME": "Choe Russell",
+    "CASE_IDENTIFIER": "CF-20260811162301-B6BF",
+    "CASE_FILE": "Violation of R.A 9165",
+    "DESCRIPTION": "",
+    "DATE_CREATED": "2026-08-11",
+    "ASSIGNED_LAWYER": {
+        "id": 7,
+        "name": "Nico Narida"
+    },
+    "STATUS": "OPEN",
+    "CLIENT_USER_ID": 52,
+    "ATTACHMENTS": [],
+    "UPDATED_AT": "2026-08-11 16:23:01"
+}

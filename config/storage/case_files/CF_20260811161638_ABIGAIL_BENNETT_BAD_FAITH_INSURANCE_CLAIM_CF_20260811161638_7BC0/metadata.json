@@ -1,0 +1,15 @@
+{
+    "FULLNAME": "Abigail Bennett",
+    "CASE_IDENTIFIER": "CF-20260811161638-7BC0",
+    "CASE_FILE": "Bad Faith Insurance Claim",
+    "DESCRIPTION": "",
+    "DATE_CREATED": "2026-08-11",
+    "ASSIGNED_LAWYER": {
+        "id": 7,
+        "name": "Nico Narida"
+    },
+    "STATUS": "OPEN",
+    "CLIENT_USER_ID": 40,
+    "ATTACHMENTS": [],
+    "UPDATED_AT": "2026-08-11 16:16:38"
+}

@@ -1,0 +1,15 @@
+{
+    "FULLNAME": "Coco Melon",
+    "CASE_IDENTIFIER": "CF-20260805030028-7A06",
+    "CASE_FILE": "Police Report",
+    "DESCRIPTION": "",
+    "DATE_CREATED": "2026-08-05",
+    "ASSIGNED_LAWYER": {
+        "id": 7,
+        "name": "Nico Narida"
+    },
+    "STATUS": "OPEN",
+    "CLIENT_USER_ID": 19,
+    "ATTACHMENTS": [],
+    "UPDATED_AT": "2026-08-05 03:00:28"
+}

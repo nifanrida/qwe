@@ -1,0 +1,15 @@
+{
+    "FULLNAME": "Zoe Hamilton",
+    "CASE_IDENTIFIER": "CF-20260811165157-55FB",
+    "CASE_FILE": "Serious Physical Injuries",
+    "DESCRIPTION": "",
+    "DATE_CREATED": "2026-08-11",
+    "ASSIGNED_LAWYER": {
+        "id": 7,
+        "name": "Nico Narida"
+    },
+    "STATUS": "CLOSED",
+    "CLIENT_USER_ID": 51,
+    "ATTACHMENTS": [],
+    "UPDATED_AT": "2026-08-11 16:52:14"
+}

@@ -1,0 +1,15 @@
+{
+    "FULLNAME": "David Marshall",
+    "CASE_IDENTIFIER": "CF-20260811162552-AAE7",
+    "CASE_FILE": "Frustrated Murder",
+    "DESCRIPTION": "",
+    "DATE_CREATED": "2026-08-11",
+    "ASSIGNED_LAWYER": {
+        "id": 7,
+        "name": "Nico Narida"
+    },
+    "STATUS": "OPEN",
+    "CLIENT_USER_ID": 53,
+    "ATTACHMENTS": [],
+    "UPDATED_AT": "2026-08-11 16:25:52"
+}

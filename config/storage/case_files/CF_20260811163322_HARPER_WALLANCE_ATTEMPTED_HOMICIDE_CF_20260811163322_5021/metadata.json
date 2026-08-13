@@ -1,0 +1,15 @@
+{
+    "FULLNAME": "Harper Wallance",
+    "CASE_IDENTIFIER": "CF-20260811163322-5021",
+    "CASE_FILE": "Attempted Homicide",
+    "DESCRIPTION": "",
+    "DATE_CREATED": "2026-08-11",
+    "ASSIGNED_LAWYER": {
+        "id": 7,
+        "name": "Nico Narida"
+    },
+    "STATUS": "ONGOING",
+    "CLIENT_USER_ID": 36,
+    "ATTACHMENTS": [],
+    "UPDATED_AT": "2026-08-11 16:33:22"
+}
